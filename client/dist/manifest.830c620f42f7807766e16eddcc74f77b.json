@@ -1,0 +1,21 @@
+{
+  "icons": [
+    {
+      "src": "auto/icon_128x128.225c312e650131cfe5a2119fd958867e.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "auto/icon_92x92.1d83fefe79d4d7025a47d050c8889994.png",
+      "sizes": "92x92",
+      "type": "image/png"
+    }
+  ],
+  "name": "Text Editor",
+  "short_name": "JATE",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A Text Editor with a Service Worker",
+  "background_color": "#A0A0A0"
+}
